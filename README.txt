@@ -20,5 +20,6 @@ Another change
 =======
 =======
 Daniel Kuo
+Zhenyi Zhu
 >>>>>>> FETCH_HEAD
 >>>>>>> origin/master
